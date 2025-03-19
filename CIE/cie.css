@@ -1,17 +1,25 @@
-p
+body
 {
-    background-color: aliceblue;
+    background-color: rgb(211, 87, 26);
     height:min-content;
     width:40px;
     font-size: 18px;
     text-align:center;
     line-height: 1.5;
 
+
 }
 h2{
-    background-color: aliceblue;
+    background-color: rgb(126, 92, 37);
     height:min-content;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-align:center;
     margin-top:30px;
+}
+h3{
+background-color: rgb(126, 37, 37);
+height:min-content;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align:center;
+margin-top:50px;
 }
