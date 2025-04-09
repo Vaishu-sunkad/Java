@@ -6,7 +6,10 @@ class Add
           int a = 10;
           int b = 20;
           int sum=a+b;
+          int sub=a-b;
           System.out.println("Sum is"+sum);
+          System.out.println("Sum is"+sub);
+          System.out.println("master branch");
 
     }
 }
